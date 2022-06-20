@@ -1,0 +1,14 @@
+C:\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\bin\Debug\EventsExplanationAndTry.exe.config
+C:\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\bin\Debug\EventsExplanationAndTry.exe
+C:\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\bin\Debug\EventsExplanationAndTry.pdb
+C:\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\obj\Debug\EventsExplanationAndTry.csprojAssemblyReference.cache
+C:\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\obj\Debug\EventsExplanationAndTry.exe
+C:\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\obj\Debug\EventsExplanationAndTry.pdb
+E:\Coding\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\bin\Debug\EventsExplanationAndTry.exe.config
+E:\Coding\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\bin\Debug\EventsExplanationAndTry.exe
+E:\Coding\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\bin\Debug\EventsExplanationAndTry.pdb
+E:\Coding\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\obj\Debug\EventsExplanationAndTry.csproj.AssemblyReference.cache
+E:\Coding\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\obj\Debug\EventsExplanationAndTry.csproj.SuggestedBindingRedirects.cache
+E:\Coding\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\obj\Debug\EventsExplanationAndTry.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\obj\Debug\EventsExplanationAndTry.exe
+E:\Coding\CSharp Oefen Projects\EventsExplanationAndTry\EventsExplanationAndTry\obj\Debug\EventsExplanationAndTry.pdb
